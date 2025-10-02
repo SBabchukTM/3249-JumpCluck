@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb221d3de8144ccb2955dff468d98dc, type: 3}
+  m_Name: EggsConfig
+  m_EditorClassIdentifier: 
+  Items:
+  - EggSprite: {fileID: 21300000, guid: 733b8e84d47521743b7ef21c76165f59, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: ece12d7f1af915c43b2187989858ad76, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 9bfa984611b2d2c43ac0e9eb527b5ec9, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: 3e7435b616626cf41a2a4c7e86d8bd66, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: ec0fabdf2939a1a449a5a549bf2b9bb9, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 00db75e6bf8c9294798be59b4f98b4bc, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: a96d660a86b5af740ab4bff1f0ef15cf, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: ec8c0570af39ab14a894243d2f7e0df6, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 09a7027b72fac594b8b4bba396e86de2, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: 826b753364e28f946af4735e6b7f43d5, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 728650f3b52804e488451e18c0da7388, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 36ea0f19e1c30854086b6847319c6be7, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: b312c9b439986e740916e9c198fbea14, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: ef4507bcd00f34f41854d1978e66b2e3, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 4d137279350e0424db1c6d13f24c6a5f, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: 2ff9e9d99dd3f0740969e19463089360, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 78254d154f203a2438068c8157ab2787, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 705380fb6b446534cadab53f7900ea07, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: 3be604c1883b9a145a6120fd2901a624, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 0a99364dd7e55bb4c815abec16275d3e, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 7725307f1ab4fe348bf9b85dca4d1b69, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: b422d2936453f56488f149d5e7d5ad5c, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 709cbb54fce59c447bf2a061cb29a31c, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: dac97e1717e679b4eb61407bcedf8d80, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: e1b8a0e17a89bd54890c1c0c01aecfb0, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: b5a274ca5f4f0ed41848cd184d826a39, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 9475f545600578847b63e989f56b054d, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: f85e14d1262a85d448a663d4bd18fcb3, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: d4afb04bb48e5fc43bad6adffa4daf77, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: ae5f9151496b2b2448e8c13f7a06b4ec, type: 3}
+    Price: 0
+  - EggSprite: {fileID: 21300000, guid: f2712c60ed358c141a4bb8ec2f6f4ad8, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: b9da4327a1444b54bb2c3df1d328311b, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 9222ac4f08261ec4692d905578d08fe3, type: 3}
+    Price: 100
+  - EggSprite: {fileID: 21300000, guid: f8cea6bf1c05cd643bcf3938faa030f9, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 076817a75dd2c4644a7ca5258f9fee83, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: d03f067c03155fb41854a9fc907d71e9, type: 3}
+    Price: 200
+  - EggSprite: {fileID: 21300000, guid: c23ca840fa7f5574a81c75f3bce72a57, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: ff85a0859730af345bc66f2a4e57cafc, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 761c1a74793405343becfa4c170e9e89, type: 3}
+    Price: 250
+  - EggSprite: {fileID: 21300000, guid: 5f7cbd8cf5a69d34080fe528bc78a6f3, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 58ed362a629b06a4d90071563c785580, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 5130a2fcbdff5774dbf0daec058461f2, type: 3}
+    Price: 300
+  - EggSprite: {fileID: 21300000, guid: 5523d74ac80f34346b1f9d0533f8efce, type: 3}
+    CrackedEggSprite: {fileID: 21300000, guid: 11691393e78856c46913ea7947a348ed, type: 3}
+    ChickenSprite: {fileID: 21300000, guid: 7ecef6a8224b54d44afc6748e853003f, type: 3}
+    Price: 500

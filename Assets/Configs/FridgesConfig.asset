@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 806c780647e96b84fa03fad9fd0d59e4, type: 3}
+  m_Name: FridgesConfig
+  m_EditorClassIdentifier: 
+  Items:
+  - ItemSprite: {fileID: 21300000, guid: b4f3a8ebb380cb2458ba286a84edd5f6, type: 3}
+    PreviewSprite: {fileID: 21300000, guid: 4f86688961b3cb04d97f6ecced794718, type: 3}
+    Price: 0
+  - ItemSprite: {fileID: 21300000, guid: 172a07b8407bf1a4c808ece6e3fdc08d, type: 3}
+    PreviewSprite: {fileID: 21300000, guid: 58142f8195f19394c9227d8ad3016717, type: 3}
+    Price: 200
+  - ItemSprite: {fileID: 21300000, guid: 63c641c218189c14c936df9810c20466, type: 3}
+    PreviewSprite: {fileID: 21300000, guid: b6ec83f99db59c245991f9fdd3e03d18, type: 3}
+    Price: 400
+  - ItemSprite: {fileID: 21300000, guid: fff95a1c8bf4c8743b60699056360cd4, type: 3}
+    PreviewSprite: {fileID: 21300000, guid: 03b32a9a232b7284ea3cfc646afb13eb, type: 3}
+    Price: 800
